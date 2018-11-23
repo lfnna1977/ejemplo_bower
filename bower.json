@@ -4,6 +4,7 @@
   "authors": [
     "Numa Navarro <lfnna1977@yahoo.es>"
   ],
+  "version": "0.0.1",
   "description": "",
   "main": "index.html",
   "license": "MIT",
