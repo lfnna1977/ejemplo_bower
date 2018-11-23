@@ -1,0 +1,17 @@
+{
+  "name": "ejemplo_bower",
+  "homepage": "https://github.com/lfnna1977/ejemplo_bower",
+  "authors": [
+    "Numa Navarro <lfnna1977@yahoo.es>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
